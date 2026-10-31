@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ELV8, operating under the brand Invest With Scout, is a venture-backed fintech platform that connects accredited investors with curated private market investment opportunities. The company focuses on simplifying access to alternative assets, providing detailed due diligence, and leveraging technology to streamline the investment process. ELV8 aims to democratize private market participation while maintaining compliance and security standards for its users.
+ELV8 is a technology startup backed by Techstars that focuses on providing investment scouting tools for venture capital and private market investors. The company offers a platform that aggregates data on emerging companies, enabling investors to discover promising opportunities and conduct due diligence. ELV8 aims to streamline the scouting process through APIs and data services, though currently its public API documentation is not available.
 
-**Areas:** Fintech · Investment · Private-Market · Accredited-Investors · Platform · Company
+**Areas:** FinTech · Investment · Startup · VentureCapital · Technology
 
 ## ELV8 on APIs.io
 
@@ -76,58 +76,36 @@ Everything profiled for ELV8 is published on APIs.io rather than in this reposit
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [Investwithscout Com Authentication](https://apis.io/security/investwithscout-com/investwithscout-com-authentication/)
 - [Investwithscout Com Domain Security](https://apis.io/security/investwithscout-com/investwithscout-com-domain-security/)
 
-## Where to find this API
+#### OAuth scopes (1)
 
-Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+The permissions the API asks for.
 
-- [Website](https://investwithscout.com/)
+- [Investwithscout Com Scopes](https://apis.io/scopes/investwithscout-com/investwithscout-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Investwithscout Com Plans Pricing](https://apis.io/plans/investwithscout-com/investwithscout-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Investwithscout Com Rate Limits](https://apis.io/rate-limits/investwithscout-com/investwithscout-com-rate-limits/)
 
 ## API Evangelist rating
 
-**Kin Score 3.1** — minimal · rubric 0.24.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 44.6 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/investwithscout-com/](https://apis.io/providers/investwithscout-com/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
